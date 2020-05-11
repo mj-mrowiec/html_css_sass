@@ -40,14 +40,16 @@
   /* Navbar links */
   .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #b1aeae;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    transition: all 0.5s ease
   }
   
   .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    color:white;
+    opacity: 1;
+    /*font-weight: bold;*/
   }  
